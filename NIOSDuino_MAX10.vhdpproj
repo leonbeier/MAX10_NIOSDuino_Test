@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ProjectRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>NIOSDuino_MAX10</Header>
+  <Items xsi:type="ProjectFolder">
+    <Header>Generated</Header>
+    <Items xsi:type="ProjectFileVHDL">
+      <Header>NIOSDuino_MAX10.vhd</Header>
+    </Items>
+    <Items xsi:type="ProjectFileVHDL">
+      <Header>NIOSDuino_Processor.vhd</Header>
+    </Items>
+  </Items>
+  <Items xsi:type="ProjectFolder">
+    <Header>Libraries</Header>
+    <Items xsi:type="ProjectFolder">
+      <Header>NIOSDuino</Header>
+      <Items xsi:type="ProjectFile">
+        <Header>avalon_pwm.v</Header>
+      </Items>
+      <Items xsi:type="ProjectFile">
+        <Header>avalon_pwm_hw.tcl</Header>
+      </Items>
+      <Items xsi:type="ProjectFile">
+        <Header>avalon_pwm_sw.tcl</Header>
+      </Items>
+      <Items xsi:type="ProjectFile">
+        <Header>NIOSDuino_Core.qsys</Header>
+      </Items>
+      <Items xsi:type="ProjectFileVHDP">
+        <Header>NIOSDuino_Core.vhdp</Header>
+      </Items>
+    </Items>
+  </Items>
+  <Items xsi:type="ProjectFileVHDP">
+    <Header>NIOSDuino_MAX10.vhdp</Header>
+  </Items>
+  <SelectedExtensionsSave />
+  <IOVoltage>0</IOVoltage>
+</ProjectRoot>
