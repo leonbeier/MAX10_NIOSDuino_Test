@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Wed Sep 23 23:21:13 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : NIOSDuino_MAX10
+Top-level Entity Name : NIOSDuino_MAX10
+Family : MAX 10
+Device : 10M08SAU169C8G
+Power Models : Final
+Total Thermal Power Dissipation : 127.43 mW
+Core Dynamic Thermal Power Dissipation : 1.51 mW
+Core Static Thermal Power Dissipation : 121.00 mW
+I/O Thermal Power Dissipation : 4.92 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data

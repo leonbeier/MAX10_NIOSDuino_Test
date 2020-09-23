@@ -1,0 +1,18 @@
+Fitter Status : Successful - Wed Sep 23 23:20:59 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : NIOSDuino_MAX10
+Top-level Entity Name : NIOSDuino_MAX10
+Family : MAX 10
+Device : 10M08SAU169C8G
+Timing Models : Final
+Total logic elements : 5,395 / 8,064 ( 67 % )
+    Total combinational functions : 4,827 / 8,064 ( 60 % )
+    Dedicated logic registers : 3,145 / 8,064 ( 39 % )
+Total registers : 3213
+Total pins : 67 / 130 ( 52 % )
+Total virtual pins : 0
+Total memory bits : 275,528 / 387,072 ( 71 % )
+Embedded Multiplier 9-bit elements : 0 / 48 ( 0 % )
+Total PLLs : 1 / 1 ( 100 % )
+UFM blocks : 1 / 1 ( 100 % )
+ADC blocks : 1 / 1 ( 100 % )
